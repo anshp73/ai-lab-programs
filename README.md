@@ -1,1 +1,1 @@
-new
+yolov8_600_object_detection - https://drive.google.com/file/d/15XaO0Y5KqFQ7LECFsrlrDbcB7KEHN2dh/view?usp=sharing
